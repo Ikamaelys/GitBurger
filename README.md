@@ -1,8 +1,8 @@
-#Bienvenue chez GitBurger !
+# Bienvenue chez GitBurger !
 
 Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
 
-##Ingrédients disponibles
+## Ingrédients disponibles
 
    - 🥯 **Pain haut** : Pain brioché avec des graines de sésame sur le dessus.
 
